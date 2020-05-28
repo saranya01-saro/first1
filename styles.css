@@ -1,0 +1,124 @@
+.colored{
+background-color: #ff4c68;
+}
+.image{
+  /*margin-left: 50px;*/
+  padding-top: 70px;
+  /*position :relative;*/
+  width:50%;
+}
+.big-heading{
+  text-align: center;
+  color: white;
+  padding-bottom: 3%;
+ line-height: 1.5;
+ font-size:3rem;
+ /*margin-right:20%;*/
+  padding-top: 10%;
+}
+.pad{
+  text-align: center;
+}
+.pad1{
+  text-align: center;
+}
+/*.pad2{
+padding:1% 15%;
+}*/
+.navbar-brand{
+  font-size:2rem;
+}
+.nav-item{
+  font-size:1.5rem;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+label{
+  font-size:2.5rem;
+    text-align: center;
+  /*margin-left: 2%;*/
+}
+/*.heading{
+  padding-left: 20px;
+}*/
+#defaultCheck1{
+  text-align: center;
+  padding-left: 100px;
+ zoom:3;
+}
+
+
+.b{
+  /*margin-top: 10%;
+  margin-left: 35%;*/
+  text-align: center;
+  margin-top:10%;
+  margin-bottom: 5%;
+}
+/*@media (max-width:500px){
+  h2{
+   text-align: center;
+  }
+  #defaultCheck1
+    padding-left:10%
+  }
+}*/
+.prevent{
+ text-align: center;
+ padding:7% 15%;
+  }
+  .r{
+    padding: 2% 3%;
+  }
+  .signup{
+    width:100%;
+  }
+  .car{
+    padding:7% 12%;
+  }
+  .g{
+    padding:7% 12%;
+  }
+  .test{
+    width:10%;
+    border-radius: 100%;
+    margin:20px;
+/*margin-left:35%;*/
+  }
+  #testimonial{
+    text-align: center;
+  }
+  .testimonial-text{
+    line-height: 1.5;
+    font-size:2rem;
+  }
+  .a{
+    text-align: center;
+    line-height: 1.5;
+    padding-bottom: 5%;
+    font-size:2rem;
+  }
+  .gi{
+    padding:3% 3%;
+    text-align: center;
+  }
+  #footer{
+  padding-top:5%;
+  text-align: center;
+  background-color: grey;
+}
+  .fo{
+  padding:1% 1%;
+}
+
+@media (min-width:1028px)
+{
+  .pad1{
+    padding-right:40%;
+  }
+  .big-heading{
+    padding-top: 50%;
+    text-align: left;
+    font-size:2.5rem;
+  }
+}
